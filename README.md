@@ -1,2 +1,2 @@
 # Backup-scipt-
-bash code to create backup to directories
+Bash script to create backup to directories
